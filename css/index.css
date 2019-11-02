@@ -1,0 +1,18 @@
+h1{
+    text-align: center;color: white;
+}
+h2{
+    text-align: left;
+    
+}
+h3{
+    text-align: right;
+}
+
+#centro{width: 100px;
+    height: 50px;
+    background-color: red; 
+    
+}
+#esquerda{height: 50px;width: 100px; background-color: blue;}
+#direita{height: 50px;width: 100px; background-color: green;}
